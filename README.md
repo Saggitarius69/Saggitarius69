@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
-I'm Siddhartha Raj Thapa, a passionate developer from Dharan-11, Sunsari, Nepal. I'm currently exploring the realms of software development and looking to make an impact with technology. My motto is 'Gott Mit Uns...' which reflects my dedication and drive.
-
+I'm Siddhartha Raj Thapa, a passionate developer from Dharan-11, Sunsari, Nepal. 
+Gott Mit Uns.....
 
 ## Top Projects
 
