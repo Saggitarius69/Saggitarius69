@@ -53,21 +53,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/Saggitarius69/Saggitarius69/output/github-contribution-grid-snake.svg)
-
----
-
-## 📬 Connect with Me
-
-<p align="center">
-  <a href="mailto:siddhartharajthapa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Saggitarius69"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="dev gif" />
 
 ---
