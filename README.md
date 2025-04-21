@@ -14,7 +14,7 @@ Gott Mit Uns.....
 ## GitHub Stats
 
 📈 **Public Repositories:** 5  
-👥 **Followers:** 1  
+👥 **Followers:** 3  
 👤 **Following:** 0  
 ![](https://github-readme-stats.vercel.app/api?username=Saggitarius69&show_icons=true&theme=radical)
 
