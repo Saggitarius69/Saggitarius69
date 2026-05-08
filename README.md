@@ -73,7 +73,7 @@
     → Linux > everything else 🐧
     → Reads docs before Stack Overflow 📖
   philosophy  : "Code is poetry written in logic"
-  motto       : "Gott Mit Uns ✝️"
+  motto       : "Gott Mit Uns"
   open_to     : Collaborations & Opportunities
 ╚══════════════════════════════════════════╝
 ```
